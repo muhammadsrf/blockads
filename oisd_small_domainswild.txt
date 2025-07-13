@@ -42618,3 +42618,15 @@
 *.zztxfj.xyz
 *.zzux.com
 *.zzynmuog.com
+
+# youtube
+*.ads.youtube.com
+*.analytics-sg.tiktok.com
+*.ads-sg.tiktok.com
+
+# google ads
+*.pagead2.googlesyndication.com
+*.ads.google.com
+*.adservice.google.com
+*.pagead2.googleadservices.com
+*.googleadservices.com
